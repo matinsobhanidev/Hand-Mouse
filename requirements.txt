@@ -1,0 +1,6 @@
+mediapipe>=1.2.3
+opencv-python
+pyautogui
+screeninfo
+numpy
+pyinstaller

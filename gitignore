@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+build/
+dist/
+*.spec
+*.exe
+hand_mouse_settings.json
+hand_mouse_config.json
+hand_mouse_error.log
+hand_landmarker.task
+*.part
